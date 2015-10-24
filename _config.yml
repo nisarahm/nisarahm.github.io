@@ -1,0 +1,67 @@
+# Site settings
+title:       Nisar Ahmed
+email:       nisarahm@usc.edu
+author:      John Otander
+description: "Niasr Ahmed's Webpage"
+baseurl:     ""
+url:         "http://nisarahm.github.io"
+date_format: "%b %-d, %Y"
+
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#        
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-10353431-3'
+
+# Google services
+google_analytics:
+google_verification:
+
+# Optional features
+animated:           true
+show_related_posts: false
+show_post_footers:  false
+show_social_icons:  false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Social icons
+github_username:
+bitbucket_username:
+stackoverflow_id:
+twitter_username:
+google_plus_id:
+linkedin_username: Nisar Ahmed
+angellist_username:
+medium_id:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Post sharing icons
+show_sharing_icons: false
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: false
+share_twitter: false
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     4
+sass:
+  compressed: true
