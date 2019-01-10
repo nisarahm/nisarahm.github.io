@@ -47,7 +47,7 @@ Conference on Lasers and Electro-Optics (CLEO), San Jose CA, 2013.
 ### Journals
 
  1. **N. Ahmed**, Z. Zhao, L. Li, H. Huang, M. PJ. Lavery, P. Liao et al., <br>
- [Mode-Division-Multiplexing of multiple Bessel-Gaussian beams carrying OAM for obstruction-tolerant free-Space optical and millimetre-wave communication links](https://www.nature.com/articles/srep22082) <br> 
+ [Mode-Division-Multiplexing of multiple Bessel-Gaussian beams carrying OAM for obstruction-tolerant free-Space optical and mm-wave communication links](https://www.nature.com/articles/srep22082) <br> 
  Scientific Reports, 6 (2016).
 
  1. **N. Ahmed**, H. Huang, Y. Ren, Y. Yan, G. Xie, M. Tur, and A. E. Willner, <br>
