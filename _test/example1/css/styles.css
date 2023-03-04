@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display:900|Raleway:500,700");
+
+p {
+	font-family: "Raleway", sans-serif;
+	color: #000000;
+	font-size: 18px;
+}
+
+.name{
+	font-size: 28px;
+
+}
